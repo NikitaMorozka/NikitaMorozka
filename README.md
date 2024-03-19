@@ -1,4 +1,4 @@
-<h1 align="center">Привет меня зовут <a href="https://daniilshat.ru/" target="_blank">Даниил</a> 
+<h1 align="center">Привет меня зовут <a href="https://daniilshat.ru/" target="_blank">Никита</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"></h3>
 
@@ -35,7 +35,7 @@
 ## 🤝 Социальные сети:
   <div id="badges">
     </a>
-    <a href="https://t.me/jedi_Anakin" target="_blank">
+    <a href="https://t.me/elderly_user" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
     <a href="https://www.youtube.com/channel/UCgzEV5bmio3vDqzYf0mN0UQ" target="_blank">
@@ -44,7 +44,7 @@
     <a href="https://vk.com/jedianakin" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-  </div> 
+ </div> 
   
 
 ---
